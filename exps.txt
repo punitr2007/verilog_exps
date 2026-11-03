@@ -1,0 +1,13 @@
+1. Write a Verilog code for the design and test bench for the simulation of basic logic gates.
+2. Write a Verilog code for the design and test bench for the simulation of binary to grey and grey to binary converter.
+3. Write a Verilog code for the design and test bench for the simulation of half adder.
+4. Write a Verilog code for the design and test bench for the simulation of full adder.
+5. Write a Verilog code for the design and test bench for the simulation of 8 to 1 multiplexer.
+6. Write a Verilog code for the design and test bench for the simulation of 2 to 4 decoder.
+7. Write a Verilog code for the design and test bench for the simulation of parallel adder.
+8. Write a Verilog code for the design and test bench for the simulation of 3 bit comparator.
+9. Write a Verilog code for the design and test bench for the simulation of SR latch and D latch.
+10. Write a Verilog code for the design and test bench for the simulation of SR flip flop and D flip flop.
+11. Write a Verilog code for the design and test bench for the simulation of SISO shift register.
+12. Write a Verilog code for the design and test bench for the simulation of PISO shift register.
+13. Write a Verilog code for the design and test bench for the simulation of Up-Down counter.
